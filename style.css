@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+p{
+    color: yellow;
+}
+
+button{
+    border-radius: 25px;
+    height: 25px;
+    font-weight: bold;
+}
